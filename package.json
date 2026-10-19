@@ -46,7 +46,7 @@
     "hardhat-local-networks-config-plugin": "^0.0.6",
     "prettier": "^2.8.3",
     "prettier-plugin-solidity": "^1.1.1",
-    "railgun-circuit-test-artifacts": "https://ipfs-lb.com/ipfs/QmPvs6Lws1MS4CTMAQ6P3WfyFpWFKGu7o6cSbWCu3vgXLW/railgun-circuit-test-artifacts-0.0.1.tgz",
+    "railgun-circuit-test-artifacts": "https://ipfs.filebase.io/ipfs/QmPvs6Lws1MS4CTMAQ6P3WfyFpWFKGu7o6cSbWCu3vgXLW/railgun-circuit-test-artifacts-0.0.1.tgz",
     "snarkjs": "^0.5.0",
     "solhint": "^3.3.8",
     "solhint-plugin-prettier": "^0.0.5",
